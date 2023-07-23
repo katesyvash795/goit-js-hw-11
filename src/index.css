@@ -1,0 +1,32 @@
+.search-form{
+    width:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: aqua;
+    color: black;
+    height:100px;
+}
+input{
+    margin-right: 20px;
+    padding: 20px;
+    border-radius: 5px;
+    border-style: none;
+}
+button{
+    padding: 20px;
+    background-color: blue;
+    color: aliceblue;
+    text-align: center;
+    border-radius: 5px;
+border-style: none;
+
+}
+.gallery{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    padding: 30px;
+    flex-wrap: wrap;
+}
